@@ -1,0 +1,4 @@
+export VAGRANT_HOME="C:/Users/${USER}/.vagrant.d/"
+export VBOX_USER_HOME="C:/Users/${USER}/.VirtualBox/"
+export PATH="/cygdrive/c/Program Files/Oracle/VirtualBox/:/cygdrive/c/HashiCorp/Vagrant/bin/":${PATH}
+export VAGRANT_DETECTED_OS=cygwin
