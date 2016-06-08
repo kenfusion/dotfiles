@@ -1,0 +1,12 @@
+[user]
+	name = Chris Malone
+	email = surefoot@gmail.com
+[push]
+	default = simple
+[color]
+	ui = auto
+[core]
+	editor = /usr/bin/vim
+[alias]
+	lg = log --oneline --decorate --all --graph
+	s = status -s
