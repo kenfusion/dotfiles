@@ -1,0 +1,14 @@
+alias egrep='egrep --color=auto'
+alias fgrep='fgrep --color=auto'
+alias grep='grep --color=auto'
+alias l='ls -CF'
+alias la='ls -A'
+alias ls='ls -Fh --color=auto'
+alias ll='ls -lhrt'
+alias rm='rm -I'
+alias p1l="perl -00 -wpl -e 's#\n#,#g'"
+alias dos2unix="perl -wpli.bak -e 's#\r##g'"
+alias sortip='sort -n -t . -k 1,1 -k 2,2 -k 3,3 -k 4,4'
+alias ..="cd .."
+alias ...="cd ../.."
+alias ....="cd ../../.."
