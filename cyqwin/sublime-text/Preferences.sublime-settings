@@ -1,0 +1,43 @@
+{
+	"auto_complete": false,
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Solarized Color Scheme/Solarized (dark).tmTheme",
+	"detect_indentation": true,
+	"draw_indent_guides": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"find_selected_text": true,
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".vagrant"
+	],
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_to_bracket": true,
+	"line_padding_bottom": 0,
+	"line_padding_top": 0,
+	"new_window_settings":
+	{
+		"hide_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": true,
+		"status_bar_visible": true
+	},
+	"scroll_past_end": true,
+	"show_full_path": true,
+	"soda_classic_tabs": true,
+	"tab_size": 2,
+	"theme": "Sodarized Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": "auto"
+}
