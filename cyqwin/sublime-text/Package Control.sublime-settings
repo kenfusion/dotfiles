@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"GitGutter",
+		"Jinja2",
 		"Markdown Preview",
 		"Package Control",
 		"Pretty JSON",
@@ -14,3 +15,4 @@
 		"Theme - Sodarized"
 	]
 }
+
