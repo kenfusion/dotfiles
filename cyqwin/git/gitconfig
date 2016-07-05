@@ -8,6 +8,7 @@
 [core]
 	editor = /usr/bin/vim
 	excludesfile = ~/.gitignore_global
+	trustctime = false
 [alias]
 	lg = log --oneline --decorate --all --graph
 	s = status -s
