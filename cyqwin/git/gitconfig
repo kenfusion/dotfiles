@@ -12,3 +12,5 @@
 [alias]
 	lg = log --oneline --decorate --all --graph
 	s = status -s
+[status]
+	submoduleSummary = true
